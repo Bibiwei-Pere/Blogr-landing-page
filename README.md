@@ -8,7 +8,7 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 
 ### Links
 
-- [Live Site URL](https://Blogr01.netlify.app)
+- [Live Site URL](https://Blogr001.netlify.app)
 
 ### Built with
 
